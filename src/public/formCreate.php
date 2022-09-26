@@ -5,7 +5,7 @@
         <title>sample</title>
     </head>
     <h2>お問い合わせフォーム</h2>
-    <p>以下のフォームからお問い合わせください。</p>
+    <p>以下フォームからお問い合わせをしましょう！</p>
     <body>
         <form action="complete.php" method="post">
             タイトル（必須）<br />
