@@ -8,13 +8,13 @@
     <p>以下のフォームからお問い合わせください。</p>
     <body>
         <form action="complete.php" method="post">
-            タイトル（必須）<br />
+            ID<br />
             <input type="text" name="title" size="50" value="" /><br />
  
-            Email（必須）<br />
+            名前<br />
             <input type="text" name="email" size="50" value="" /><br />
  
-            お問い合わせ内容（必須）<br />
+            好きな食べ物<br />
             <textarea name="content" cols="50" rows="5"></textarea><br />
             <br />
             <input type="submit" value="送信" />
