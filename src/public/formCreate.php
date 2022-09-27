@@ -9,10 +9,10 @@
     <body>
         <form action="complete.php" method="post">
             ID<br />
-            <input type="text" name="title" size="50" value="" /><br />
+            <input type="text" name="id" size="50" value="" /><br />
  
             名前<br />
-            <input type="text" name="email" size="50" value="" /><br />
+            <input type="text" name="mail" size="50" value="" /><br />
  
             好きな食べ物<br />
             <textarea name="content" cols="50" rows="5"></textarea><br />
